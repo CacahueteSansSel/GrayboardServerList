@@ -1,9 +1,4 @@
 {
     "version": "1.2.1",
-    "contents": [
-        "- Fixed detention's chair bug",
-        "- Fixed inactive chair bug",
-        "- Fixed projector bug",
-        "- Polished the ruler item"
-    ]
+    "contents": "- Fixed detention's chair bug\n- Fixed inactive chair bug\n- Fixed projector bug\n- Polished the ruler item"
 }
