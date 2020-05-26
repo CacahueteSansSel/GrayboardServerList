@@ -1,4 +1,4 @@
 {
-    "version": "1.3.1",
-    "contents": "- Added the Physics Room\n- Added the Lighter\n- Audio playing on computers\n- A lot of bugs fixed"
+    "version": "1.4.2",
+    "contents": "- Added an outside floor (useful for sports courses)\n- Added fire alarms\n- Added health\n- Added two new rooms\n- Several commands added\n- Many bugs fixed"
 }
